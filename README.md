@@ -1,5 +1,5 @@
 # Linear_reg_roboism
-This is a linear regression model trained on the given train.csv data which further predicts values of y with the help of given x in test.csv file.
+This is a linear regression model trained on the given train.csv data which predicts the values of y with the help of given x in test.csv file.
 
 A funtion is created which takes the values of x, y, learning rate and no. of iterations to train itself.
 
